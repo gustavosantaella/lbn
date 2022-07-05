@@ -1,0 +1,7 @@
+.venv/
+.env
+.idea
+./__pyache__
+**/__pycache__
+gitlab
+gitlab.pub
